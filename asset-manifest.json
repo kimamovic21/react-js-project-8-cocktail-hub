@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kimamovic21/react-js-project-8-cocktail-hub/static/css/main.b8d8c476.chunk.css",
+    "main.js": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/main.0c1eba17.chunk.js",
+    "main.js.map": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/main.0c1eba17.chunk.js.map",
+    "runtime-main.js": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/runtime-main.28ba8b9c.js",
+    "runtime-main.js.map": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/runtime-main.28ba8b9c.js.map",
+    "static/js/2.76489ec3.chunk.js": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/2.76489ec3.chunk.js",
+    "static/js/2.76489ec3.chunk.js.map": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/2.76489ec3.chunk.js.map",
+    "index.html": "/kimamovic21/react-js-project-8-cocktail-hub/index.html",
+    "static/css/main.b8d8c476.chunk.css.map": "/kimamovic21/react-js-project-8-cocktail-hub/static/css/main.b8d8c476.chunk.css.map",
+    "static/js/2.76489ec3.chunk.js.LICENSE.txt": "/kimamovic21/react-js-project-8-cocktail-hub/static/js/2.76489ec3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ba8b9c.js",
+    "static/js/2.76489ec3.chunk.js",
+    "static/css/main.b8d8c476.chunk.css",
+    "static/js/main.0c1eba17.chunk.js"
+  ]
+}
